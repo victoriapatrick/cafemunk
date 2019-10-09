@@ -45,7 +45,7 @@ Som nævnt ovenfor har vi en informationsboks med en kort beskrivelse af restaur
 **Liste over krav Cafe Munk:** <br>
     a. Skal kunne få et overblik over reservationer og specifikationer ved dem (navn, email, telefonnummer og kommentar). <br>
     b. Skal kunne lave en reservation selv i tilfælde af en kunde ringer for at lave en reservation. <br>
-    c. Skal kunne lave en reservation selv i tilfælde af en kunde vil lave en reservation over 8 personer. 
+    c. Skal kunne lave en reservation selv i tilfælde af en kunde vil lave en reservation over 8 personer. <br>
     d. Sende en bekræftelsesmail til kunden efter foretaget reservation. <br> 
     e. Skal kunne se information om kunden så Cafe Munk kan ringe og snakke med dem om eventuelle kommentarer eller andet. <br> 
 
