@@ -5,7 +5,7 @@ Velkommen til vores projekt "Cafe Munk".
 Nedenfor vil du finde en beskrivelse af vores projekt.
 Dette er efterfulgt af en kravspecifikation og til sidst et klassediagram.
 
-##Beskrivelse af projekt Cafe Munk
+**Beskrivelse af projekt Cafe Munk**
 
 **Vores ide:** <br>
 I forbindelse med vores BIS projekt, fandt vi en indisk inspireret restaurant ved Nørreport station. Restauranten havde på forhånd ikke en hjemmeside. Vi fik på en gang mulighed for at være kreative med hjemmesidens udformning samt at afprøve vores programmeringsevner i form af et bordreservationssystem. Vi vurderer, at projektet indeholder materiale nok til at arbejde med i både Business Information System og Programmering.
@@ -26,9 +26,9 @@ Hovedpointen i dette program er bordreservations system og vi vil herfra fokuser
 **Reservation** <br>
 Som nævnt ovenfor har vi en informationsboks med en kort beskrivelse af restauranten, “Om os”, og et bordreservations program herunder i samme informationsboks. I toppen af vores program vil der være en string hvor der står “Ved booking af flere end 8 personer: Venligst send en mail til cafe.munk@yahoo.dk eller ring til os på 33 11 83 83”. Herefter vil man skulle vælge antallet af personer i ens selskab fra 1-8. Når man har angivet hvor mange personer man er, skal man vælge en dato i en kalender. I tilfælde af fuld booking vil dagene være “greyed out” og ikke kunne vælges. Efter man har valgt dato, skal man vælge et tidspunkt i et skema. Tidspunktet vil ligesom kalenderen være “greyed out” i tilfælde af fuld booking. Når man har lavet sine reservationsvalg, vil man som kunde blive bedt om at udfylde følgende kundeinformation: “Fornavn”, “Efternavn”, “E-mail”, “Telefon” og “Særlige ønsker”. Efter man har udfyldt informationen, vil man skulle trykke på en knap hvor der står “Book”. Kunden vil herefter få en pop-up der fortæller kunden at en bekræftelses vil blive sendt til deres mail. Efter den førnævnte pop-up lukkes vil kunden blive sendt til menuen. Derudover vil der blive sendt en reservationsbekræftelse pr. mail.
 
-##Kravspecifikation
+**Kravspecifikation**
 <br>
-**Aktører** <br>
+**Aktører:** <br>
     a. Kunden <br>
     b. Cafe Munk <br>
     
@@ -49,4 +49,4 @@ Som nævnt ovenfor har vi en informationsboks med en kort beskrivelse af restaur
     d. Sende en bekræftelsesmail til kunden efter foretaget reservation. <br> 
     e. Skal kunne se information om kunden så Cafe Munk kan ringe og snakke med dem om eventuelle kommentarer eller andet. <br> 
 
-##Klassediagram 
+**Klassediagram** 
