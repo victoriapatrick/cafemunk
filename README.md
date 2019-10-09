@@ -15,6 +15,7 @@ Vores ide for Cafe-Munk var at skabe et administrativt system integreret i den h
 
 **Programmet udefra og ind:** <br>
 Vores program består af en forside med en navigations bar som indeholder følgende punkter:
+    
     1. Menu <br>
     2. Take Away <br>
     3. Catering <br>
