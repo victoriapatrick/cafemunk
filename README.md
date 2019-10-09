@@ -50,3 +50,5 @@ Som nævnt ovenfor har vi en informationsboks med en kort beskrivelse af restaur
     e. Skal kunne se information om kunden så Cafe Munk kan ringe og snakke med dem om eventuelle kommentarer eller andet. <br> 
 
 **Klassediagram** 
+
+![Alt Text](assets/Picture1.png?raw=true "Cafe Munk class diagram")
